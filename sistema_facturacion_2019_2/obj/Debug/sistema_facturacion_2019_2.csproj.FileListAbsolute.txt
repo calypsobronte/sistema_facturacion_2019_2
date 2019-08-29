@@ -1,0 +1,14 @@
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\bin\Debug\sistema_facturacion_2019_2.exe.config
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\bin\Debug\sistema_facturacion_2019_2.exe
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\bin\Debug\sistema_facturacion_2019_2.pdb
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\bin\Debug\MaterialSkin.dll
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\obj\Debug\sistema_facturacion_2019_2.csprojAssemblyReference.cache
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\obj\Debug\sistema_facturacion_2019_2.FrmLogin.resources
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\obj\Debug\sistema_facturacion_2019_2.Properties.Resources.resources
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\obj\Debug\sistema_facturacion_2019_2.csproj.GenerateResource.cache
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\obj\Debug\sistema_facturacion_2019_2.csproj.CoreCompileInputs.cache
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\obj\Debug\sistema_facturacion_2019_2.csproj.CopyComplete
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\obj\Debug\sistema_facturacion_2019_2.exe
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\obj\Debug\sistema_facturacion_2019_2.pdb
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\obj\Debug\sistema_facturacion_2019_2.FrmPrincipal.resources
+C:\Users\calypsobronte\source\repos\sistema_facturacion_2019_2\sistema_facturacion_2019_2\obj\Debug\sistema_facturacion_2019_2.FrmClientes.resources
